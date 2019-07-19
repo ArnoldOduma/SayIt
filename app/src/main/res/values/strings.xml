@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SayIt</string>
+    <string name="textview">TextView</string>
+</resources>
